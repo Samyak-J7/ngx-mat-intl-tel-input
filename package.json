@@ -1,6 +1,8 @@
 {
   "name": "ngx-mat-intl-tel-input",
   "version": "5.0.0",
+  "main": "dist/ngx-mat-intl-tel-input/fesm2022/ngx-mat-intl-tel-input.mjs",
+  "types": "dist/ngx-mat-intl-tel-input/ngx-mat-intl-tel-input.d.ts",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
